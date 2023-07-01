@@ -1,4 +1,4 @@
-![Untitled-1](https://github.com/jv36/capas/assets/114192458/d52969e4-ac7e-4b3b-bed7-4ae04c6cd885)
+![Untitled-1](https://github.com/jv36/KioskBot/assets/114192458/b51fe7ca-1a64-4552-b1c5-ee298230740c)
 
 # A WORK IN PROGRESS: The bot is not currently usable. This, for now, is just a development test.
 
